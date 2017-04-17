@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:841629480695:android:1a256d64d846d186",
+        "mobilesdk_app_id": "1:841629480695:android:57c996e86c8941d5",
         "android_client_info": {
-          "package_name": "com.groschenroman.www"
+          "package_name": "com.kaltespuren.www"
         }
       },
       "oauth_client": [
