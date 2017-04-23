@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>841629480695-94galjg8uu9mcn27krk9sv4hbe4d3fde.apps.googleusercontent.com</string>
+	<string>841629480695-nvpokn403amssqpi8bbuhkb8fan1kkgo.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.841629480695-94galjg8uu9mcn27krk9sv4hbe4d3fde</string>
+	<string>com.googleusercontent.apps.841629480695-nvpokn403amssqpi8bbuhkb8fan1kkgo</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDoUPGjCgazL4ZpmJs8W_M2QNJbwilK5yk</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.kaltespuren.www</string>
+	<string>web.com.kaltespuren.www</string>
 	<key>PROJECT_ID</key>
 	<string>kaltespuren-473e9</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:841629480695:ios:57c996e86c8941d5</string>
+	<string>1:841629480695:ios:4ce8d632af55eeb1</string>
 	<key>DATABASE_URL</key>
 	<string>https://kaltespuren-473e9.firebaseio.com</string>
 </dict>
