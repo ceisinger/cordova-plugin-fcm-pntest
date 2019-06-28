@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "841629480695",
-    "firebase_url": "https://kaltespuren-473e9.firebaseio.com",
-    "project_id": "kaltespuren-473e9",
-    "storage_bucket": "kaltespuren-473e9.appspot.com"
+    "project_number": "857841318842",
+    "firebase_url": "https://digitale-8444f.firebaseio.com",
+    "project_id": "digitale-8444f",
+    "storage_bucket": "digitale-8444f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:841629480695:android:57c996e86c8941d5",
+        "mobilesdk_app_id": "1:857841318842:android:6bbf1a9687837ab6",
         "android_client_info": {
-          "package_name": "com.kaltespuren.www"
+          "package_name": "sb.digitale.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "841629480695-d3f5g7ook27kl0ohck4euqop7c3ih12o.apps.googleusercontent.com",
+          "client_id": "857841318842-2sgl2p1ef6fks8o5j0v9gll0riqmmpa5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0SlDTuHSXDQfekC8fKVEPovvwJ4hZlps"
+          "current_key": "AIzaSyA7o8n7P_TDSMJ1Uqf7DGN04iWGDUDsxbY"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857841318842-2sgl2p1ef6fks8o5j0v9gll0riqmmpa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

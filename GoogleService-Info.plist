@@ -2,39 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>841629480695-94galjg8uu9mcn27krk9sv4hbe4d3fde.apps.googleusercontent.com</string>
+	<string>857841318842-vehkqe6e31p6a9913net9b22p6udt08m.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.841629480695-94galjg8uu9mcn27krk9sv4hbe4d3fde</string>
+	<string>com.googleusercontent.apps.857841318842-vehkqe6e31p6a9913net9b22p6udt08m</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDoUPGjCgazL4ZpmJs8W_M2QNJbwilK5yk</string>
+	<string>AIzaSyCEdvyRhAzPt8vF-xzJr8_TS07yf3RtptM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>841629480695</string>
+	<string>857841318842</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.kaltespuren.www</string>
+	<string>sb.digitale.app</string>
 	<key>PROJECT_ID</key>
-	<string>kaltespuren-473e9</string>
+	<string>digitale-8444f</string>
 	<key>STORAGE_BUCKET</key>
-	<string>kaltespuren-473e9.appspot.com</string>
+	<string>digitale-8444f.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:841629480695:ios:57c996e86c8941d5</string>
+	<string>1:857841318842:ios:6bbf1a9687837ab6</string>
 	<key>DATABASE_URL</key>
-	<string>https://kaltespuren-473e9.firebaseio.com</string>
+	<string>https://digitale-8444f.firebaseio.com</string>
 </dict>
 </plist>
